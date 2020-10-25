@@ -1,0 +1,21 @@
+{
+  "id": "ed62bd02-c3c8-4a0c-aeab-b788230d39d7",
+  "version": "2.0",
+  "name": "Damilola Selenium IDE Deydam",
+  "url": "https://dev.d2rxvhrryr2bkn.amplifyapp.com/app/feed",
+  "tests": [{
+    "id": "bd7d0d4c-982d-4a94-bb2b-1444f8b41feb",
+    "name": "test 1",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "b80a2004-5e75-47f0-b3b2-457a2b53c446",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["bd7d0d4c-982d-4a94-bb2b-1444f8b41feb"]
+  }],
+  "urls": ["https://dev.d2rxvhrryr2bkn.amplifyapp.com/app/feed"],
+  "plugins": []
+}
